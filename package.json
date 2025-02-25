@@ -36,7 +36,7 @@
     "remark-code-title": "^0.2.5",
     "remark-directive": "^3.0.0",
     "remark-math": "^6.0.0",
-    "solid-js": "^1.8.17",
+    "solid-js": "^1.9.4",
     "tailwindcss": "^3.4.3",
     "throttleit": "^2.1.0",
     "unist-util-visit": "^5.0.0"
